@@ -1,3 +1,3 @@
 # hello--world-
 My first test 
-this seems interesting i bet i can do this full day nonstop 
+this seems interesting I bet I can do this full day nonstop 
